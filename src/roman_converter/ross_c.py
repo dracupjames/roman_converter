@@ -1,6 +1,9 @@
 def to_roman(arabic: int) -> str:
-    roman_map: list[tuple[int,str]] = \
-        [(1000,"M"),(500,"D"),(100,"C"),(50,"L"),(10,"X"),(5,"V"),(1,"I")] # pair numerals to letters
+    roman_map: list[tuple[int, str]] = [  # pair numerals to letters
+        (1000, "M"), (900, "CM"), (500, "D"), (400, "CD"),
+        (100, "C"), (90, "XC"), (50, "L"), (40, "XL"), (10, "X"),
+        (9, "IX"), (5, "V"), (4, "IV"), (1, "I")
+    ]
     conversion: str = ""
     for num, roman in roman_map:
         count = arabic // num
