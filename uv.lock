@@ -159,6 +159,19 @@ wheels = [
 ]
 
 [[package]]
+name = "pytest-gremlins"
+version = "1.7.0"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "coverage" },
+    { name = "pytest" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/ff/a3/98ea3fa26b821f2dcbd02c2360a735bff2f25e04f8cf2aaec11c24926ff6/pytest_gremlins-1.7.0.tar.gz", hash = "sha256:c166adb0b39317445c324ecb222ba3668e8cf00da468f7549c37d4d8e5eb6324", size = 3980187, upload-time = "2026-03-28T00:21:13.466Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/76/e1/854dbc8ae456a5c0b2ce3e4fda79a366ac56d4fefd01db6c4b6b31d379ce/pytest_gremlins-1.7.0-py3-none-any.whl", hash = "sha256:0ddde9eced0b1f46f16468b9b8d81a7be38db0ef0bfd49a35f5303f6896cff83", size = 106328, upload-time = "2026-03-28T00:21:12.083Z" },
+]
+
+[[package]]
 name = "pytest-html"
 version = "4.2.0"
 source = { registry = "https://pypi.org/simple" }
@@ -204,6 +217,7 @@ source = { editable = "." }
 dependencies = [
     { name = "pytest" },
     { name = "pytest-cov" },
+    { name = "pytest-gremlins" },
     { name = "pytest-html" },
     { name = "pytest-sugar" },
 ]
@@ -217,6 +231,7 @@ dev = [
 requires-dist = [
     { name = "pytest", specifier = ">=9.0.2" },
     { name = "pytest-cov", specifier = ">=7.0.0" },
+    { name = "pytest-gremlins", specifier = ">=1.7.0" },
     { name = "pytest-html", specifier = ">=4.2.0" },
     { name = "pytest-sugar", specifier = ">=1.1.1" },
 ]

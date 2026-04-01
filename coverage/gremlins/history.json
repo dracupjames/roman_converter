@@ -1,0 +1,374 @@
+[
+  {
+    "timestamp": "2026-03-30T12:17:02.236683+00:00",
+    "score": 96.55,
+    "by_file": {
+      "/Users/jamesdracup/Desktop/roman_converter/src/roman_converter/adracup_c.py": 90.91,
+      "/Users/jamesdracup/Desktop/roman_converter/src/roman_converter/adracup_b.py": 100.0,
+      "/Users/jamesdracup/Desktop/roman_converter/src/roman_converter/adracup_a.py": 100.0
+    },
+    "by_operator": {
+      "arithmetic": {
+        "total": 7,
+        "survived": 0
+      },
+      "comparison": {
+        "total": 12,
+        "survived": 0
+      },
+      "boundary": {
+        "total": 2,
+        "survived": 1
+      },
+      "return": {
+        "total": 7,
+        "survived": 0
+      },
+      "boolean": {
+        "total": 1,
+        "survived": 0
+      }
+    }
+  },
+  {
+    "timestamp": "2026-03-31T20:05:37.093903+00:00",
+    "score": 89.66,
+    "by_file": {
+      "/Users/jamesdracup/Desktop/roman_converter/src/roman_converter/adracup_c.py": 72.73,
+      "/Users/jamesdracup/Desktop/roman_converter/src/roman_converter/adracup_b.py": 100.0,
+      "/Users/jamesdracup/Desktop/roman_converter/src/roman_converter/adracup_a.py": 100.0
+    },
+    "by_operator": {
+      "arithmetic": {
+        "total": 7,
+        "survived": 0
+      },
+      "comparison": {
+        "total": 12,
+        "survived": 1
+      },
+      "boundary": {
+        "total": 2,
+        "survived": 2
+      },
+      "return": {
+        "total": 7,
+        "survived": 0
+      },
+      "boolean": {
+        "total": 1,
+        "survived": 0
+      }
+    }
+  },
+  {
+    "timestamp": "2026-03-31T20:07:59.316742+00:00",
+    "score": 96.55,
+    "by_file": {
+      "/Users/jamesdracup/Desktop/roman_converter/src/roman_converter/adracup_c.py": 90.91,
+      "/Users/jamesdracup/Desktop/roman_converter/src/roman_converter/adracup_b.py": 100.0,
+      "/Users/jamesdracup/Desktop/roman_converter/src/roman_converter/adracup_a.py": 100.0
+    },
+    "by_operator": {
+      "arithmetic": {
+        "total": 7,
+        "survived": 0
+      },
+      "comparison": {
+        "total": 12,
+        "survived": 0
+      },
+      "boundary": {
+        "total": 2,
+        "survived": 1
+      },
+      "return": {
+        "total": 7,
+        "survived": 0
+      },
+      "boolean": {
+        "total": 1,
+        "survived": 0
+      }
+    }
+  },
+  {
+    "timestamp": "2026-03-31T20:11:01.890538+00:00",
+    "score": 93.94,
+    "by_file": {
+      "/Users/jamesdracup/Desktop/roman_converter/src/roman_converter/adracup_c.py": 86.67,
+      "/Users/jamesdracup/Desktop/roman_converter/src/roman_converter/adracup_b.py": 100.0,
+      "/Users/jamesdracup/Desktop/roman_converter/src/roman_converter/adracup_a.py": 100.0
+    },
+    "by_operator": {
+      "arithmetic": {
+        "total": 7,
+        "survived": 0
+      },
+      "comparison": {
+        "total": 14,
+        "survived": 1
+      },
+      "boundary": {
+        "total": 4,
+        "survived": 1
+      },
+      "return": {
+        "total": 7,
+        "survived": 0
+      },
+      "boolean": {
+        "total": 1,
+        "survived": 0
+      }
+    }
+  },
+  {
+    "timestamp": "2026-03-31T20:14:16.496251+00:00",
+    "score": 96.55,
+    "by_file": {
+      "/Users/jamesdracup/Desktop/roman_converter/src/roman_converter/adracup_c.py": 90.91,
+      "/Users/jamesdracup/Desktop/roman_converter/src/roman_converter/adracup_b.py": 100.0,
+      "/Users/jamesdracup/Desktop/roman_converter/src/roman_converter/adracup_a.py": 100.0
+    },
+    "by_operator": {
+      "arithmetic": {
+        "total": 7,
+        "survived": 0
+      },
+      "comparison": {
+        "total": 12,
+        "survived": 0
+      },
+      "boundary": {
+        "total": 2,
+        "survived": 1
+      },
+      "return": {
+        "total": 7,
+        "survived": 0
+      },
+      "boolean": {
+        "total": 1,
+        "survived": 0
+      }
+    }
+  },
+  {
+    "timestamp": "2026-03-31T20:15:41.349915+00:00",
+    "score": 93.1,
+    "by_file": {
+      "/Users/jamesdracup/Desktop/roman_converter/src/roman_converter/adracup_c.py": 81.82,
+      "/Users/jamesdracup/Desktop/roman_converter/src/roman_converter/adracup_b.py": 100.0,
+      "/Users/jamesdracup/Desktop/roman_converter/src/roman_converter/adracup_a.py": 100.0
+    },
+    "by_operator": {
+      "arithmetic": {
+        "total": 7,
+        "survived": 0
+      },
+      "comparison": {
+        "total": 12,
+        "survived": 1
+      },
+      "boundary": {
+        "total": 2,
+        "survived": 1
+      },
+      "return": {
+        "total": 7,
+        "survived": 0
+      },
+      "boolean": {
+        "total": 1,
+        "survived": 0
+      }
+    }
+  },
+  {
+    "timestamp": "2026-03-31T20:17:23.053642+00:00",
+    "score": 96.55,
+    "by_file": {
+      "/Users/jamesdracup/Desktop/roman_converter/src/roman_converter/adracup_c.py": 90.91,
+      "/Users/jamesdracup/Desktop/roman_converter/src/roman_converter/adracup_b.py": 100.0,
+      "/Users/jamesdracup/Desktop/roman_converter/src/roman_converter/adracup_a.py": 100.0
+    },
+    "by_operator": {
+      "arithmetic": {
+        "total": 7,
+        "survived": 0
+      },
+      "comparison": {
+        "total": 12,
+        "survived": 0
+      },
+      "boundary": {
+        "total": 2,
+        "survived": 1
+      },
+      "return": {
+        "total": 7,
+        "survived": 0
+      },
+      "boolean": {
+        "total": 1,
+        "survived": 0
+      }
+    }
+  },
+  {
+    "timestamp": "2026-03-31T20:23:07.435529+00:00",
+    "score": 100.0,
+    "by_file": {
+      "/Users/jamesdracup/Desktop/roman_converter/src/roman_converter/adracup_c.py": 100.0,
+      "/Users/jamesdracup/Desktop/roman_converter/src/roman_converter/adracup_b.py": 100.0,
+      "/Users/jamesdracup/Desktop/roman_converter/src/roman_converter/adracup_a.py": 100.0
+    },
+    "by_operator": {
+      "arithmetic": {
+        "total": 7,
+        "survived": 0
+      },
+      "comparison": {
+        "total": 12,
+        "survived": 0
+      },
+      "boundary": {
+        "total": 2,
+        "survived": 0
+      },
+      "return": {
+        "total": 7,
+        "survived": 0
+      },
+      "boolean": {
+        "total": 1,
+        "survived": 0
+      }
+    }
+  },
+  {
+    "timestamp": "2026-03-31T20:24:42.227025+00:00",
+    "score": 93.94,
+    "by_file": {
+      "/Users/jamesdracup/Desktop/roman_converter/src/roman_converter/adracup_c.py": 86.67,
+      "/Users/jamesdracup/Desktop/roman_converter/src/roman_converter/adracup_b.py": 100.0,
+      "/Users/jamesdracup/Desktop/roman_converter/src/roman_converter/adracup_a.py": 100.0
+    },
+    "by_operator": {
+      "arithmetic": {
+        "total": 7,
+        "survived": 0
+      },
+      "comparison": {
+        "total": 14,
+        "survived": 0
+      },
+      "boundary": {
+        "total": 4,
+        "survived": 2
+      },
+      "return": {
+        "total": 7,
+        "survived": 0
+      },
+      "boolean": {
+        "total": 1,
+        "survived": 0
+      }
+    }
+  },
+  {
+    "timestamp": "2026-03-31T20:28:02.978070+00:00",
+    "score": 100.0,
+    "by_file": {
+      "/Users/jamesdracup/Desktop/roman_converter/src/roman_converter/adracup_c.py": 100.0,
+      "/Users/jamesdracup/Desktop/roman_converter/src/roman_converter/adracup_b.py": 100.0,
+      "/Users/jamesdracup/Desktop/roman_converter/src/roman_converter/adracup_a.py": 100.0
+    },
+    "by_operator": {
+      "arithmetic": {
+        "total": 7,
+        "survived": 0
+      },
+      "comparison": {
+        "total": 12,
+        "survived": 0
+      },
+      "boundary": {
+        "total": 2,
+        "survived": 0
+      },
+      "return": {
+        "total": 7,
+        "survived": 0
+      },
+      "boolean": {
+        "total": 1,
+        "survived": 0
+      }
+    }
+  },
+  {
+    "timestamp": "2026-03-31T20:29:47.385872+00:00",
+    "score": 100.0,
+    "by_file": {
+      "/Users/jamesdracup/Desktop/roman_converter/src/roman_converter/adracup_c.py": 100.0,
+      "/Users/jamesdracup/Desktop/roman_converter/src/roman_converter/adracup_b.py": 100.0,
+      "/Users/jamesdracup/Desktop/roman_converter/src/roman_converter/adracup_a.py": 100.0
+    },
+    "by_operator": {
+      "arithmetic": {
+        "total": 7,
+        "survived": 0
+      },
+      "comparison": {
+        "total": 12,
+        "survived": 0
+      },
+      "boundary": {
+        "total": 2,
+        "survived": 0
+      },
+      "return": {
+        "total": 7,
+        "survived": 0
+      },
+      "boolean": {
+        "total": 1,
+        "survived": 0
+      }
+    }
+  },
+  {
+    "timestamp": "2026-03-31T20:32:11.980425+00:00",
+    "score": 100.0,
+    "by_file": {
+      "/Users/jamesdracup/Desktop/roman_converter/src/roman_converter/adracup_c.py": 100.0,
+      "/Users/jamesdracup/Desktop/roman_converter/src/roman_converter/adracup_b.py": 100.0,
+      "/Users/jamesdracup/Desktop/roman_converter/src/roman_converter/adracup_a.py": 100.0
+    },
+    "by_operator": {
+      "arithmetic": {
+        "total": 7,
+        "survived": 0
+      },
+      "comparison": {
+        "total": 12,
+        "survived": 0
+      },
+      "boundary": {
+        "total": 2,
+        "survived": 0
+      },
+      "return": {
+        "total": 7,
+        "survived": 0
+      },
+      "boolean": {
+        "total": 1,
+        "survived": 0
+      }
+    }
+  }
+]
